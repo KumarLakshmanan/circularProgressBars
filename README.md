@@ -16,18 +16,29 @@ This is my First Javascript Library for Creating Circular Progress Bars for your
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-### [Live Demo](https://CodingFrontned.com)
-
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+### [Live Demo](https://kumarlakshmanan.github.io/Libraries/circularProgressBars)
+### Output Image
+![Output Image](https://user-images.githubusercontent.com/60023855/121853009-d8ae3180-ccdf-11eb-88ee-1143c0d4feb2.png)
 
 ## Installation
 
 A step by step series of examples that tell you how to install this library
 
-Add this code between your `<head></head>` tag of your HTML Document
+Add this code before the body closing tag `</body>` tag of your HTML Document
 
 ```
-<link rel="stylesheet" href="">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circular Progress Bars</title>
+</head>
+<body>
+    <script src="https://kumarlakshmanan.github.io/Libraries/circularProgressBars/circularProgressBars.js"></script>
+</body>
+</html>
 ```
 
 Add this Class for your Div Tag
